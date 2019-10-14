@@ -109,6 +109,7 @@ Saisie du code en python. Saisie d'une documentation
 
 **Je veux** acceder aux projets des autres 
 
-**Afin d'*** m'inspirer de leurs models 
+**Afin de*** m'inspirer de leurs models 
+
 **- Critères de validation :** 
 
