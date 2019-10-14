@@ -113,3 +113,13 @@ Saisie du code en python. Saisie d'une documentation
 
 **- Critères de validation :** 
 
+### Déconnexion 
+**En tant qu'** utilisateur
+
+**Je veux** me déconnecter 
+
+**Afin de** quitter la plateforme ou permettre l'accès à un autre utilisateur
+
+**- Critères de validation :**
+Cliquer sur le bouton "Logout"
+
