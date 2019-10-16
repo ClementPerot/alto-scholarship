@@ -42,9 +42,29 @@ Envoi d'un mail de récuraption de mot de passe
 ### Home
 **En tant qu'** utilisateur
 
-**Je veux** 
+**Je veux** avoir une interface d'acceuil
 
-**Afin d'** 
+**Afin d'** avoir une vue d'ensemble sur les possibilités du logiciel
+
+**- Critères de validation :**
+Presence d'une premiere page (welcome page) et d'onglets permettant l'accès aux différentes options
+
+### Tutoriel
+**En tant qu'** utilisateur
+
+**Je veux** avoir un tutoriel
+
+**Afin d'** apprendre à utiliser le logiciel
+
+**- Critères de validation :**
+Tutoriel proposé lors de la première connexion et accessible à tout moment
+
+## Interface
+**En tant qu'** utilisateur
+
+**Je veux** avoir une interface simple et intuitive
+
+**Afin de** pouvoir naviguer facilement sur le logiciel
 
 **- Critères de validation :**
 
@@ -66,7 +86,6 @@ Saisir du code en python
 **Afin d'** implémenter du code avec efficience 
 
 **- Critères de validation :**
-
 
 ### Exporter librairies
 **En tant qu'** utilisateur
@@ -96,7 +115,6 @@ Saisie du code en python. Saisie d'une documentation
 
 **- Critères de validation :** saisies de modifications sur projet par chaque membre du groupe
 
-
 ### Accès aux données financières
 **En tant qu'** utilisateur(étudiant)
 
@@ -124,7 +142,6 @@ Saisie du code en python. Saisie d'une documentation
 
 **- Critères de validation :** échanges et communication entre membres
 
-
 ### Accès aux projets d'autres membres
 **En tant qu'** utilisateur(étudiant)
 
@@ -133,6 +150,45 @@ Saisie du code en python. Saisie d'une documentation
 **Afin de*** m'inspirer de leurs models 
 
 **- Critères de validation :** 
+
+### Options supplémentaires pour prof
+**En tant qu'** utilisateur(prof)
+
+**Je veux** avoir une vue d'ensemble sur le travail de mes étudiants
+
+**Afin de** pouvoir suivre leur avancement et/ou les noter
+
+**- Critères de validation :**
+Avoir accès à plus de fonctionnalités en tant que prof (exemple: onglet professeur)
+
+### Options supplémentaires pour prof
+**En tant qu'** utilisateur(prof)
+
+**Je veux** 
+
+**Afin de**
+
+**- Critères de validation :**
+
+## Importer du cours
+**En tant qu'** utilisateur(etudiant)
+
+**Je veux** importer des tds ou du cours sur le logiciel
+
+**Afin de** pouvoir coder et travailler en ayant mon cours/td sur le côté
+
+**- Critères de validation :**
+Mis en place d'une option "importer pdf"
+
+### Rapport d'erreur
+**En tant qu'** utilisateur
+
+**Je veux** pouvoir faire un rapport d'erreur ou contacter les developpeurs du logiciel
+
+**Afin de** signaler un bug ou un problème sur le logiciel
+
+**- Critères de validation :**
+Avoir une option "rapport de bugs"
 
 ### Déconnexion 
 **En tant qu'** utilisateur
