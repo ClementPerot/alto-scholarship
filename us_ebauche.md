@@ -23,7 +23,7 @@ Saisie du nom, prénom, adresse mail et validation des conditions d'utilisation.
 
 **Je veux** changer de mot de passe
 
-**Afin de** assurer la sécurité de mes données
+**Afin d'** assurer la sécurité de mes données
 
 **- Critères de validation :**
 Présence de cases de soumission de nouveau mot de passe
@@ -44,29 +44,20 @@ Envoi d'un mail de récuraption de mot de passe
 
 **Je veux** avoir une interface d'acceuil
 
-**Afin d'** avoir une vue d'ensemble sur les possibilités du logiciel
+**Afin d'** avoir une vue d'ensemble sur les fonctionnalités de la plateforme
 
 **- Critères de validation :**
-Presence d'une premiere page (welcome page) et d'onglets permettant l'accès aux différentes options
+Presence d'une premiere page (welcome page) et d'onglets permettant l'accès aux différentes fonctionnalités
 
 ### Tutoriel
 **En tant qu'** utilisateur
 
 **Je veux** avoir un tutoriel
 
-**Afin d'** apprendre à utiliser le logiciel
+**Afin de** prendre en main et découvrir l'ensemble des fonctionnalités disponible sur la plateforme 
 
 **- Critères de validation :**
 Tutoriel proposé lors de la première connexion et accessible à tout moment
-
-### Interface
-**En tant qu'** utilisateur
-
-**Je veux** avoir une interface simple et intuitive
-
-**Afin de** pouvoir naviguer facilement sur le logiciel
-
-**- Critères de validation :**
 
 ### IDE
 **En tant qu'** utilisateur
@@ -161,16 +152,16 @@ Saisie du code en python. Saisie d'une documentation
 **- Critères de validation :**
 Avoir accès à plus de fonctionnalités en tant que prof (exemple: onglet professeur)
 
-### Liste API
-**En tant qu'** utilisateur
+### Options supplémentaires pour prof
+**En tant qu'** utilisateur(prof)
 
-**Je veux** avoir accès à la liste des API disponible
+**Je veux** 
 
-**Afin de** savoir si cette plateforme correspond à mes besoins
+**Afin de**
 
 **- Critères de validation :**
 
-### Importer du cours
+## Importer du cours
 **En tant qu'** utilisateur(etudiant)
 
 **Je veux** importer des tds ou du cours sur le logiciel
