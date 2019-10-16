@@ -18,6 +18,27 @@ Saisie d'un identifiant et d'un mot de passe valide
 **- Critères de validation :**
 Saisie du nom, prénom, adresse mail et validation des conditions d'utilisation.
 
+### Editer son mot de passe  
+**En tant qu'** utilisateur
+
+**Je veux** changer de mot de passe
+
+**Afin de** assurer la sécurité de mes données
+
+**- Critères de validation :**
+Présence de cases de soumission de nouveau mot de passe
+au niveau du profil utilisateur
+
+### Mot de passe oublié  
+**En tant qu'** utilisateur
+
+**Je veux** récupérer mot de passe oublié
+
+**Afin de** accéder à mon compte
+
+**- Critères de validation :**
+Envoi d'un mail de récuraption de mot de passe
+
 ### Home
 **En tant qu'** utilisateur
 
