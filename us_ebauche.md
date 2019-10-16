@@ -59,7 +59,7 @@ Presence d'une premiere page (welcome page) et d'onglets permettant l'accès aux
 **- Critères de validation :**
 Tutoriel proposé lors de la première connexion et accessible à tout moment
 
-## Interface
+### Interface
 **En tant qu'** utilisateur
 
 **Je veux** avoir une interface simple et intuitive
