@@ -161,12 +161,12 @@ Saisie du code en python. Saisie d'une documentation
 **- Critères de validation :**
 Avoir accès à plus de fonctionnalités en tant que prof (exemple: onglet professeur)
 
-### Options supplémentaires pour prof
-**En tant qu'** utilisateur(prof)
+### Liste API
+**En tant qu'** utilisateur
 
-**Je veux** 
+**Je veux** avoir accès à la liste des API disponible
 
-**Afin de**
+**Afin de** savoir si cette plateforme correspond à mes besoins
 
 **- Critères de validation :**
 
