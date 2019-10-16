@@ -170,7 +170,7 @@ Avoir accès à plus de fonctionnalités en tant que prof (exemple: onglet profe
 
 **- Critères de validation :**
 
-## Importer du cours
+### Importer du cours
 **En tant qu'** utilisateur(etudiant)
 
 **Je veux** importer des tds ou du cours sur le logiciel
